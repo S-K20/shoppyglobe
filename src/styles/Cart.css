@@ -1,0 +1,14 @@
+.cart-container {
+    max-width: 700px;
+    margin: 20px auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .cart-container h2 {
+    margin-bottom: 20px;
+  }
+  
